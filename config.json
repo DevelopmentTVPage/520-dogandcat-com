@@ -1,0 +1,15 @@
+{
+    "title": "Widget Test Cust 2",
+    "baseURL": "https:\/\/dogandcat.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758386",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "dogandcat.com"
+    }
+}
